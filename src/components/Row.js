@@ -17,7 +17,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
       return request;
     };
     fetchData();
-  }, [fetchUrl]);
+  }, [movies]);
   const opts={
     height:"390",
     width:"100%",
