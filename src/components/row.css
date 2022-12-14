@@ -1,5 +1,7 @@
 .row {
     color: white;
+    margin-left: 10px;
+
 }
 
 .row_posters {
@@ -7,7 +9,7 @@
     overflow-y: hidden;
     overflow-x: scroll;
     padding: 20px;
-    margin-right: 10px;
+
 
 }
 

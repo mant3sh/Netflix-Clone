@@ -1,0 +1,27 @@
+.nav {
+    width: 100%;
+    z-index: 4;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    height: 30px;
+}
+
+.nav_back {
+    background-color: #111;
+}
+
+.logo {
+    position: fixed;
+    left: 20px;
+
+    width: 100px;
+    object-fit: contain;
+}
+
+.user {
+    position: fixed;
+    right: 20px;
+    width: 30px;
+    object-fit: contain;
+}
